@@ -1,1 +1,2 @@
-Esto es otro texto del archivo texto.txt
+Esto es otro texto 
+la otra vez en una tarde de estas 
